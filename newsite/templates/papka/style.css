@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.video {
+    position: relative;
+    padding-bottom: 56.25%;
+}
+
+.video_media {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
